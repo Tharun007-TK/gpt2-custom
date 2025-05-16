@@ -92,7 +92,7 @@ You can modify the model architecture and hyperparameters to suit your needs:
 * The **model file** (`gpt2_trained_model.h5`) is saved after training and can be reloaded using Keras to generate text.
 
 ## 🧑‍💻 Credits
-This project was created by **[Your Name Here]** with TensorFlow and Keras for educational purposes.
+This project was created by **Tharun Kumar 💙** with TensorFlow and Keras for educational purposes.
 
 Feel free to modify, extend, and improve this code as per your needs. Contributions are welcome!
 
